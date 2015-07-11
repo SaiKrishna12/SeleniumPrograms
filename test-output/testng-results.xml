@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23477" started-at="2015-06-24T03:22:26Z" finished-at="2015-06-24T03:22:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23477" started-at="2015-06-24T03:22:26Z" finished-at="2015-06-24T03:22:50Z">
+      <class name="day27.POMcontrol2">
+        <test-method status="PASS" signature="DatadrivenTest()[pri:0, instance:day27.POMcontrol2@2ce3a2bb]" name="DatadrivenTest" duration-ms="23460" started-at="2015-06-23T20:22:26Z" finished-at="2015-06-23T20:22:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DatadrivenTest -->
+      </class> <!-- day27.POMcontrol2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

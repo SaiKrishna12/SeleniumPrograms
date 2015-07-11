@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Newtours Test suite]">
+  <test name="Login on newtours(failed)">
+    <classes>
+      <class name="day23.Login">
+        <methods>
+          <include name="loginTest"/>
+          <include name="cloasApp"/>
+          <include name="launchApp"/>
+        </methods>
+      </class> <!-- day23.Login -->
+      <class name="day23.Links">
+        <methods>
+          <include name="cloasApp"/>
+          <include name="launchApp"/>
+        </methods>
+      </class> <!-- day23.Links -->
+    </classes>
+  </test> <!-- Login on newtours(failed) -->
+</suite> <!-- Failed suite [Newtours Test suite] -->
