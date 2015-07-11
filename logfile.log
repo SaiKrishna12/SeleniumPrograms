@@ -1,0 +1,13 @@
+2015-06-22 19:32:47,920 INFO  [GmailLogin_log4j] Browser Launched 
+2015-06-22 19:32:49,317 INFO  [GmailLogin_log4j] Navigated to gmail 
+2015-06-22 19:32:49,881 INFO  [GmailLogin_log4j] Enterd the username 
+2015-06-22 19:32:50,868 INFO  [GmailLogin_log4j] Clicked on next button 
+2015-06-22 19:32:53,020 INFO  [GmailLogin_log4j] Entered the  password 
+2015-06-22 19:32:54,026 INFO  [GmailLogin_log4j] Clicked on Signin 
+2015-06-22 19:34:37,684 INFO  [GmailLogin_log4j] Browser Launched 
+2015-06-22 19:34:39,057 INFO  [GmailLogin_log4j] Navigated to gmail 
+2015-06-22 19:34:39,594 INFO  [GmailLogin_log4j] Enterd the username 
+2015-06-22 19:34:40,631 INFO  [GmailLogin_log4j] Clicked on next button 
+2015-06-22 19:34:42,778 INFO  [GmailLogin_log4j] Entered the  password 
+2015-06-22 19:34:43,831 INFO  [GmailLogin_log4j] Clicked on Signin 
+2015-06-23 19:46:02,045 INFO  [GmailLogin_log4j] Browser Launched 
